@@ -1,0 +1,13 @@
+			<li><a href="labs.html">Lab Information</a></li>
+			<li><a href="equipment.html">Psychology Equipment</a></li>
+			<li> <a href="stats.html">Equipment Manuals &amp; Software</a></li>
+			<li><a href="form.html">Lab Access Form</a></li>
+			<li> <a href="book.html">Book a Lab</a></li>
+			<li> <a href="sona.html">Participate</a></li>
+			<li><a href="psychometrics.html">Psychometric Tests &amp; Tools</a></li>
+			<li> <a href="experimentbank.html">PsychoPy Experiment Bank</a></li>
+			<li> <a href="stimulusbanks.html">Stimulus Banks</a></li>
+			<li> <a href="qualtrics.html">Qualtrics</a></li>
+			<li> <a href="psychopy.html">PsychoPy Builder</a></li>
+
+			
