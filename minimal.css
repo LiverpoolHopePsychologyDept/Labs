@@ -83,7 +83,7 @@ footer {
   font-size:11px;
   width:300px;
   float:left;
-  position:fixed;
+  position:bottom;
   bottom:20px;
 }
 
